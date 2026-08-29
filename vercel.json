@@ -1,6 +1,6 @@
 {
 "installCommand": "pnpm install",
-"buildCommand": "pnpx vite build",
+"buildCommand": "pnpm run build",
 "outputDirectory": "dist",
 "framework": "vite"
 }
